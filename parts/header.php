@@ -1,7 +1,8 @@
     <!-- **Top-Menu** -->
     	<div id="top-menu">
         	<ul class="menu">
-            	<li class="current_page_item"> <a href="index.php" title=""> <span> Its home </span> Home </a></li>                                          <li> <a href="aboutus.php" title=""> <span> Who we are </span> About Us </a></li>
+            	<li> <a href="index.php" title=""> <span> Its home </span> Home </a></li>
+				<li> <a href="aboutus.php" title=""> <span> Who we are </span> About Us </a></li>
                 <li> <a href="services.php" title=""> <span> What we offer </span> Services </a></li>
 				<li> <a href="team.php" title=""> <span> Meet the </span> Team </a></li>
 				<li> <a href="gallery-fourcolumn.php" title=""> <span> Visual look </span> Gallery </a></li>

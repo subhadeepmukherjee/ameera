@@ -122,6 +122,7 @@
             <div class="column one-third last">
                 <h4 class="title"> <span> Working Hours </span> </h4>
                 <div class="notice"> <span class="left"> Mon - Fri : </span> <span class="right"> 11:00 A.M - 08:00 P.M </span> </div>
+				<div class="notice"> <span class="left"> Sat, Sun : </span> <span class="right"> 11:00 A.M - 08:00 P.M </span> </div>
                 <p> <strong> Note: </strong> Twesday full closed  </p>
             </div>
             <!-- **Three Column - End** -->

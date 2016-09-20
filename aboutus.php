@@ -19,7 +19,11 @@
     	<!-- **Content Full Width** -->
     	<div class="content content-full-width">
 		<p style="margin:0;padding:0;width:100%;">&nbsp;</p>
-			 your about us goes here ...... 
+			 <h1 class="title"> <span> About Ameera </span> </h1>
+			 <p><b>AMEERA</b> is one of the leading service providers of unisex beauty salons. We are one of the reputaed service provider with our strong 
+			 presence in this industry. We are proud to declair, we can totally make over a person by our service in skin &amp; hair.</p>
+		<p style="margin:0;padding:0;width:100%;">&nbsp;</p>
+		<div style ="margin:0;padding:0;float:left:width:70%;"><img src="images/aboutus.jpg"></div>
 		<p style="margin:0;padding:0;width:100%;">&nbsp;</p>
         </div> <!-- **Content Full Width - End** -->   	
         <?php //require_once('parts/newsletter.php'); ?>
