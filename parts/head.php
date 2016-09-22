@@ -16,4 +16,10 @@
 <link href="responsive.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/nivo-slider.css" rel="stylesheet"  type="text/css" media="screen"/>
 
+<!-- **jQuery** -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="js/isotope.js"></script>
+<script type="text/javascript" src="js/spa.custom.js"></script>
 </head>
+<?php $include_footer_js = true; ?>

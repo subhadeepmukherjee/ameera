@@ -139,13 +139,14 @@
 </div><!-- **Main - End**-->
 
 <!-- **jQuery** -->
+<?php if($include_footer_js): ?>
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="js/jquery-migrate-1.2.1.js"></script>
 <script type="text/javascript" src="js/jquery.arctext.js"></script>
 <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
 <script src="js/responsive-nav.js" type="text/javascript"></script>
 <script src="js/jquery.meanmenu.min.js" type="text/javascript"></script>
-
+<?php endif; ?>
 <script type="text/javascript">
 	$(document).ready(function(){
 		$("span.arctext").each(function(){
