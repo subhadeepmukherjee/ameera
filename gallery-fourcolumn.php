@@ -18,115 +18,83 @@
     
     	<!-- **Content Full Width** -->
     	<div class="content content-full-width">
-		    	<!--<p>  It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets remaining essentially unchanged. It was popularised in the 1960s with the  containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>-->             
-				<div id="sorting-container">
-            	<a href="#" title="" class="active_sort" data-filter=".all-sort"> All </a>                                     
-                <a href="#" title="" data-filter=".health-sort"> Health </a>
-                <a href="#" title="" data-filter=".herbal-sort"> Herbal </a>
-                <a href="#" title="" data-filter=".treatment-sort"> Treatment </a>
-                <a href="#" title="" data-filter=".cosmetics-sort"> Cosmetics </a>
+		<p style="margin:0;padding:0;width:100%;">&nbsp;</p>
+		<script>
+            $(document).ready(function() {
+                $.museum($('#content img'));
+            });
+        </script>
+        <style type='text/css'>
+        #container { margin: 50px; }
+        #content img {margin-right: 10px; margin-bottom: 10px; border:2px solid #043a6b; padding:5px; }
+        #content img:hover { border: 2px solid #fff; }
+        pre { background: rgba(255,255,255,0.6); padding: 10px; color: #012647;} 
+		.msm-content{margin-top:8% !important;}
+		.one-half{float:left;}
+        </style>
+		<div id='content'>
+		<div class="one-half herbal-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                <img src='http://muratayfer.com/static/images/paintings/cat.jpg' />
 				</div>
-            <!-- **Gallery Wrapper -->
-            <div class="gallery-wrapper">
-                
-                <!-- **Gallery Container** -->
-                <div class="gallery-container">
-                 
-                	<!-- **Gallery One Fourth** -->
-                	<div class="one-half herbal-sort">
-                        <div class="gallery">
-                            <div class="gallery-image">
-                                <a href="#" title="">
-                                    <img src="http://placehold.it/469x380" alt="" title="" />
-                                </a>
-                            </div>
-                            
-                            <div class="gallery-title">
-                                <h5> <a href="#" title=""> Spa Echo </a> </h5>
-                            </div> 
-                        </div>
-                    </div><!-- **Gallery One Fourth - End** -->
-                
-                	<!-- **Gallery One Fourth** -->
-                	<div class="one-half cosmetics-sort">
-                        <div class="gallery">
-                            <div class="gallery-image">
-                                <a href="#" title="">
-                                    <img src="http://placehold.it/469x380" alt="" title="" />
-                                </a>
-                            </div>
-                            
-                            <div class="gallery-title">
-                                <h5> <a href="#" title=""> Color in Disguise </a> </h5>
-                            </div> 
-                        </div>
-                    </div><!-- **Gallery One Fourth - End** -->
-                    
-                	<!-- **Gallery One Fourth** -->
-                	<div class="one-half treatment-sort">
-                        <div class="gallery">
-                            <div class="gallery-image">
-                                <a href="#" title="">
-                                    <img src="http://placehold.it/469x380" alt="" title="" />
-                                </a>
-                            </div>
-                            
-                            <div class="gallery-title">
-                                <h5> <a href="#" title=""> Spa Bars </a> </h5>
-                            </div> 
-                        </div>
-                    </div><!-- **Gallery One Fourth - End** -->
-                    
-                	<!-- **Gallery One Fourth** -->
-                	<div class="one-half health-sort">
-                        <div class="gallery">
-                            <div class="gallery-image">
-                                <a href="#" title="">
-                                    <img src="http://placehold.it/469x380" alt="" title="" />
-                                </a>
-                            </div>
-                            
-                            <div class="gallery-title">
-                                <h5> <a href="#" title=""> Honey Dew </a> </h5>
-                            </div> 
-                        </div>
-                    </div><!-- **Gallery One Fourth - End** -->
-                    
-                	<!-- **Gallery One Fourth** -->
-                	<div class="one-half herbal-sort">
-                        <div class="gallery">
-                            <div class="gallery-image">
-                                <a href="#" title="">
-                                    <img src="http://placehold.it/469x380" alt="" title="" />
-                                </a>
-                            </div>
-                            
-                            <div class="gallery-title">
-                                <h5> <a href="#" title=""> Misc Herbs </a> </h5>
-                            </div> 
-                        </div>
-                    </div><!-- **Gallery One Fourth - End** -->
-                
-                	<!-- **Gallery One Fourth** -->
-                	<div class="one-half herbal-sort">
-                        <div class="gallery">
-                            <div class="gallery-image">
-                                <a href="#" title="">
-                                    <img src="http://placehold.it/469x380" alt="" title="" />
-                                </a>
-                            </div>
-                            
-                            <div class="gallery-title">
-                                <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                            </div> 
-                        </div>
-                    </div><!-- **Gallery One Fourth - End** -->
-                    
-                    
-                </div><!-- **Gallery Container - End** -->
-                
-            
-            </div><!-- **Gallery Wrapper** -->
+				<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>
+			</div>
+		</div>
+		<div class="one-half cosmetics-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                <img src='http://muratayfer.com/static/images/paintings/bird.jpg' />
+				</div>
+				<div class="gallery-title">
+                    <h5> <a href="#" title=""> Color in Disguise </a> </h5>
+                </div>
+			</div>
+		</div>
+		<div class="one-half treatment-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                <img src='http://muratayfer.com/static/images/paintings/horse.jpg' />
+			    </div>
+				<div class="gallery-title">
+                    <h5> <a href="#" title=""> Spa Bars </a> </h5>
+                </div> 
+			</div>
+		</div>
+		<div class="one-half health-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                <img src='http://muratayfer.com/static/images/paintings/snail.jpg' />
+				</div>
+				<div class="gallery-title">
+                    <h5> <a href="#" title=""> Honey Dew </a> </h5>
+                </div> 
+			</div>
+		</div>
+		<div class="one-half herbal-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                <img src='http://muratayfer.com/static/images/paintings/tiger.jpg' />
+				</div>
+				<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div> 
+			</div>
+		</div>
+		<div class="one-half herbal-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
+				</div>
+				<div class="gallery-title">
+                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
+                </div>
+			</div>
+		</div>
+     </div><!-- **content - End ** -->
+	 <p style="margin:0;padding:0;width:100%;">&nbsp;</p><br><br>
         </div> <!-- **Content Full Width - End** -->   	
         <?php //require_once('parts/newsletter.php'); ?>
         

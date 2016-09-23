@@ -21,5 +21,6 @@
 <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="js/isotope.js"></script>
 <script type="text/javascript" src="js/spa.custom.js"></script>
+<script type="text/javascript" src="js/jquery.museum.js"></script>
 </head>
 <?php $include_footer_js = true; ?>
