@@ -52,29 +52,26 @@
                         <ul class="testimonial-carousel">
                             <li>
                                 <blockquote>                                
-                                    Nulla ullamcorper faucibus tellus sed malesuada. In convallis hendrerit velit id vulputate. In hac habitasse platea dictumst. Donec eget consequat urna. Pellentesque ac 
-                                    nibh risus. Duis scelerisque, metus ac adipiscing convallis, nunc lectus commodo leo, a vulputate nisi elit in nisl. 
-                                    <span> - Emmy Rossum </span>
+                                    It was a good experience of stylish  Hair cutting with Ameera Glamour World.
+                                    <span> - Chandra Bhattacharya </span>
                                 </blockquote>
                             </li>
                             <li>
                                 <blockquote>
-                                	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien ac risus pulvinar consequat. Nulla a urna a nibh consectetur semper quis hendrerit felis. 
-                                    Aliquam sodales, elit sit amet pellentesque dapibus. 
-                                    <span> - Aliquam erat </span>
+                                	It is too good for Anti aging Treatment
+                                    <span> - Susmita Dasgupta  </span>
                                 </blockquote>
                             </li>
                             <li>
                                 <blockquote>
-                                    Proin magna diam, mollis vel pretium et, mattis ac erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
-                                    Quisque in eros at nisi malesuada porttitor. Aenean blandit ornare urna at hendrerit. 
-                                    <span> - Quisque vehicula </span>
+                                   I’m  very Satisfied with body polishing by their expert male beautician
+                                    <span> - Swapan Das  </span>
                                 </blockquote>
                             </li>
                             <li>
                                 <blockquote>
-                                    Nunc arcu magna, egestas non gravida vel, condimentum eu elit. Morbi egestas erat a urna mollis malesuada. Aliquam quis orci sem, ut facilisis massa. Suspendisse varius nisi vitae quam porta convallis. Aliquam ac quam neque, quis feugiat est. Praesent odio diam.
-                                    <span> - Aenean malesuada </span>
+                                    I'm very satisfied With Ameera's face Message & Excellent pedicure As well as Foot Message Service.
+                                    <span> - Arko Mukherjee </span>
                                 </blockquote>
                             </li>
                         </ul> 
