@@ -49,30 +49,26 @@
         	<h1 class="title"> <span> Services </span> </h1>                     
             <div class="column one-fourth">
                 <div class="content-center-aligned">   
-                    <a href="services.php" title=""> <span class="arctext" data-radius="100"> Body </span> <span class="rounded-img border"> <img src="images/204204.jpg" alt="" title="" /> </span> </a>
-                    <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est 
-                    sed mauris gravida mollis.  </p>
+                    <a href="services.php" title=""> <span class="arctext" data-radius="100"> Body </span> <span class="rounded-img border"> <img src="images/body.jpg" alt="" title="" /> </span> </a>
+                    <p> A scrub or body polish is a spa treatment which exfoliates the skin on your body leaving it feeling fresh, smooth, moisturised and soft. </p>
                 </div>
             </div>
             <div class="column one-fourth">
                 <div class="content-center-aligned">   
-                    <a href="services.php" title=""> <span class="arctext" data-radius="150"> Hair </span> <span class="rounded-img border"> <img src="images/204204.jpg" alt="" title="" /> </span> </a>
-                    <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est sed 
-                    mauris gravida mollis.  </p>
+                    <a href="services.php" title=""> <span class="arctext" data-radius="150"> Hair </span> <span class="rounded-img border"> <img src="images/hair.jpg" alt="" title="" /> </span> </a>
+                    <p> Haircut refers to the styling of hair, usually on the human scalp. Sometimes, this could also mean an editing of beard hair.  </p>
                 </div>
             </div>
             <div class="column one-fourth">
                 <div class="content-center-aligned">   
-                    <a href="services.php" title=""> <span class="arctext" data-radius="150"> Skin </span> <span class="rounded-img border"> <img src="images/204204.jpg" alt="" title="" /> </span> </a>
-                    <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est sed 
-                    mauris gravida mollis.  </p>
+                    <a href="services.php" title=""> <span class="arctext" data-radius="150"> Skin </span> <span class="rounded-img border"> <img src="images/facial.jpg" alt="" title="" /> </span> </a>
+                    <p> A facial is a process of skin care treatments for the face, including steam, exfoliation, extraction, creams, lotions, facial masks, peels, and massage. </p>
                 </div>
             </div>
             <div class="column one-fourth last">
                 <div class="content-center-aligned">   
-                    <a href="services.php" title=""> <span class="arctext" data-radius="240"> Bridal </span> <span class="rounded-img border"> <img src="images/204204.jpg" alt="" title="" /> </span> </a>
-                    <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est sed 
-                    mauris gravida mollis.  </p>
+                    <a href="services.php" title=""> <span class="arctext" data-radius="240"> Bridal </span> <span class="rounded-img border"> <img src="images/bridal.jpg" alt="" title="" /> </span> </a>
+                    <p> Bridal make up is an important part of bridal dressing. Along with the shinning jewellery and a gorgeous wedding dress   </p>
                 </div>
             </div>
             <!-- **Services - End** -->
@@ -84,19 +80,19 @@
             
             <div class="column one-half">
                 <div class="box-content">
-                    <a href="services.php" title=""> <img src="http://placehold.it/220x240" alt="" title="" class="alignleft" /> </a>
-                    <h2> Hair Styling </h2>
+                    <a href="procedure.php" title=""> <img src="images/blunt220.jpg" alt="" title="" class="alignleft" /> </a>
+                    <h2> Hair Styling - BLUNT </h2>
                     <p> Nulla ullamcorper faucibus tellus sed malesuada. In convallis hendrerit velit id vulputate. In hac habitasse platea dictumst. Donec eget consequat urna. Pellentesque ac nibh risus. Duis scelerisque, metus ac adipiscing. </p>
-                    <a href="services.php" title="Read More" class="tooltip-top readmore"> </a> 
+                    <a href="procedure.php" title="Read More" class="tooltip-top readmore"> </a> 
                 </div>
             </div>
             
             <div class="column one-half last">
                 <div class="box-content">
-                    <a href="services.php" title=""> <img src="http://placehold.it/220x240" alt="" title="" class="alignleft" /> </a>
+                    <a href="procedure.php" title=""> <img src="images/gold220.jpg" alt="" title="" class="alignleft" /> </a>
                     <h2> Gold Facial </h2>
                     <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est sed mauris gravida mollis. Suspendisse potenti. Pellentesque nisl nec elit. </p>
-                    <a href="services.php" title="Read More" class="tooltip-top readmore"> </a> 
+                    <a href="procedure.php" title="Read More" class="tooltip-top readmore"> </a> 
                 </div>
             </div>
             <!-- **Popular Procedures - End** -->
@@ -115,15 +111,16 @@
                     <li> <a target="_blank" href="http://www.weightlossresources.co.uk/diet/diet_tips/myths_facts.htm" title="Dieting Myths… Uncovered"> Dieting Myths… Uncovered </a> </li>
                 </ul>
             </div>
-            <!--<div class="column one-third">
-            	<h4 class="title"> <span> Gift a Friend </span> </h4>
-                <a href="" title=""> <img src="images/gift-card.png" alt="" title="" /> </a>
-            </div>-->
+            <div class="column one-third">
+            	<h4 class="title"> <span> Special Package</span> </h4>
+                <a href="package.php" title=""> <img src="images/gift.png" alt="" title="" /> </a>
+            </div>
             <div class="column one-third last">
                 <h4 class="title"> <span> Working Hours </span> </h4>
-                <div class="notice"> <span class="left"> Mon - Fri : </span> <span class="right"> 11:00 A.M - 08:00 P.M </span> </div>
-				<div class="notice"> <span class="left"> Sat, Sun : </span> <span class="right"> 11:00 A.M - 08:00 P.M </span> </div>
-                <p> <strong> Note: </strong> Twesday full closed  </p>
+                <img src="images/work.png" alt="" title="" /> 
+                
+              <!--  <div class="notice"> <span class="left"> Mon - Fri : </span> <span class="right"> 11:00 A.M - 08:00 P.M </span> </div>
+                <p> <strong> Note: </strong> Twesday full closed  </p>-->
             </div>
             <!-- **Three Column - End** -->
             

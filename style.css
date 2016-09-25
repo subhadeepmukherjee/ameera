@@ -5,7 +5,7 @@
 
 /*----*****---- << General >> ----*****----*/
 	
-	body {  background:#fffae4 url(images/top-bg.jpg) repeat-x; font:normal 12px Tahoma, Geneva, sans-serif; color:#4e4635; }
+	body {  background:#fffae4 url(images/top-bg.jpg) repeat-x; font:normal 12px Tahoma, Geneva, sans-serif; color:#1b4f72; }
 	
 	/*----*****---- << Headings >> ----*****----*/
 	
@@ -20,7 +20,7 @@
 	h6{ font-size:12px; line-height:15px; margin-bottom:10px;  }
 	
 	
-	h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:url(images/title-border.png) bottom repeat-x; float:left; width:100%; line-height:45px; color:#fffae4; text-transform:uppercase; text-shadow:-1px -1px 0px #634e37; padding:0px 0px 5px; margin:0px 0px 30px; }
+	h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:url(images/title-border.png) bottom repeat-x; float:left; width:100%; line-height:45px; color:#f4d03f; text-transform:uppercase; text-shadow:-1px -1px 0px #634e37; padding:0px 0px 5px; margin:0px 0px 30px; }
 	h1.title span, h2.title span, h3.title span, h4.title span, h5.title span, h6.title span { background:url(images/title-bg.jpg) repeat; display:block; padding:0px 10px; }
 	
 	h2.title { line-height:40px; }
@@ -204,7 +204,7 @@
 	
 	.one-fourth { width:23.4%; }
 	.one-half { width:48.9%; }
-	.one-third { width:30.9%; }
+	.one-third { width:31.9%; }
 	.three-fourth { width:74.5%; }	
 	.two-third { width:66%; }
 	
