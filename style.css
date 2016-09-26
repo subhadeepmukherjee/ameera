@@ -785,3 +785,11 @@
 	
 	.footer-bottom { background:url(images/footer-bottom-bg.jpg) repeat; width:100%; float:left; padding:20px 0px; box-shadow:0px -1px 6px #0c0c0c; -moz-box-shadow:0px -1px 6px #0c0c0c; -webkit-box-shadow:0px -1px 6px #0c0c0c; }
 	.footer-bottom p { margin:0px; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; color:#514b37; }
+/* custom css by dev team */
+#container { margin: 50px; }
+#content img {margin-right: 10px; margin-bottom: 10px; border:2px solid #043a6b; padding:5px;width:235px;height:180px; }
+#content img:hover { border: 2px solid #fff; }
+pre { background: rgba(255,255,255,0.6); padding: 10px; color: #012647;} 
+.msm-content{margin-top:8% !important;}
+.one-third{float:left;}
+/* custom css by dev team */
