@@ -28,37 +28,29 @@
             	<div id="ajax_message"></div>
             	<form id="booknow-form" action="php/booknow.php" method="get" class="booknow-form">
                 	<p>
-                        <label> First Name <span class="required"> * </span> </label>
-                        <input name="fname" type="text" />
-                    </p>
-                    <p>
-                        <label> Last Name <span class="required"> * </span> </label>
-                        <input name="lname" type="text" />
+                        <label> Name <span class="required"> * </span> </label>
+                        <input required="required" name="fname" type="text" />
                     </p>
                     <p>
                         <label> Gender </label>
                         <span class="gender">
                             <input type="radio" class="radiob1" id="Male" name="Gender" value="Male" />
                             Male
-                            <input type="radio" class="Female" id="Female" name="Gender" value="Female" checked="checked" />
+                            <input required="required" type="radio" class="Female" id="Female" name="Gender" value="Female" checked="checked" />
                             Female
                         </span>
                     </p>
                     <p>
-                        <label> Telephone <span class="required"> * </span> </label>
-                        <input name="phone" type="text" />
+                        <label> Mobile <span class="required"> * </span> </label>
+                        <input required="required" name="phone" type="text" />
                     </p>
                     <p>
-                        <label> Email <span class="required"> * </span> </label>
-                        <input name="email" type="text" />
-                    </p>
-                    <p>
-                        <label> Address </label>
-                        <textarea name="address" cols="" rows=""></textarea>
+                        <label> Email <span class="required"></span> </label>
+                        <input name="email" type="email" />
                     </p>
                     <p>
                     	<label> Date of Treatment <span class="required"> * </span> </label>
-                        <select class="day" id="treatment_day" name="treatment_day">	
+                        <select required="required" class="day" id="treatment_day" name="treatment_day">	
                             <option value="">Day</option>
                             <option value="16">16</option>
                             <option value="17">17</option>
@@ -78,7 +70,7 @@
                             <option value="31">31</option>
                         </select>
                         
-                        <select class="day" id="treatment_month" name="treatment_month">
+                        <select required="required" class="day" id="treatment_month" name="treatment_month">
                             <option value="">Month</option>
                             <option value="8">Aug</option>
                             <option value="9">Sep</option>
@@ -86,15 +78,15 @@
                             <option value="11">Nov</option>
                             <option value="12">Dec</option>
                         </select>
-                        <select class="day" id="treatment_year" name="treatment_year">
+                        <select required="required" class="day" id="treatment_year" name="treatment_year">
                             <option value="">Year</option>
-                            <option value="2012">2012</option>
-                            <option value="2013">2013</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
                         </select>
                     </p>
                     <p>
                     	<label> Preferred time <span class="required"> * </span> </label>
-                        <select class="salutation" id="PreferredTime" name="PreferredTime">
+                        <select required="required" class="salutation" id="PreferredTime" name="PreferredTime">
 	                        <option>Time</option>
                         	<option>8 AM</option>
                             <option>9 AM</option>
@@ -110,21 +102,13 @@
                         </select>
                     </p>
                     <p>
-                    	<label> Type of Treatment </label> 
-                        <select class="treatment" id="treatment" name="treatment">
-                            <option value="">Please Select a Treatment</option>
-                            <option value="Jivaniya">Jivaniya</option>
-                            <option value="Mewar Khas">Mewar Khas</option>
-                            <option value="Pehlwan Malish">Pehlwan Malish</option>
+                    	<label> Type of Sevice </label> 
+                        <select required="required" class="treatment" id="treatment" name="treatment">
+                            <option value="select">Select</option>
+                            <option value="facial">Facial</option>
+                            <option value="skin">skin</option>
+                            <option value="body polish">Body polish</option>
                         </select>       
-                    </p>
-                    <p>
-                        <label> No. of Persons <span class="required"> * </span> </label>
-                        <input name="persons" type="text" />
-                    </p>
-                    <p>
-                        <label> Special Requests </label>
-                        <textarea name="requests" cols="" rows=""></textarea>
                     </p>
                     <p class="submit">
                     	<input name="booknow" type="submit" value="Book Now" />
