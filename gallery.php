@@ -30,11 +30,11 @@
         #content img:hover { border: 2px solid #fff; }
         pre { background: rgba(255,255,255,0.6); padding: 10px; color: #012647;} 
 		.msm-content{margin-top:8% !important;}
-		.one-half{float:left;}
+		.one-third{float:left;}
         </style>
 		<div id='content'>
 		<h1 class="title"> <span> Body </span> </h1>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/cat.jpg' />
@@ -44,7 +44,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half cosmetics-sort">
+		<div class="one-third cosmetics-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/bird.jpg' />
@@ -54,7 +54,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half treatment-sort">
+		<div class="one-third treatment-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/horse.jpg' />
@@ -64,7 +64,7 @@
                 </div> 
 			</div>
 		</div>
-		<div class="one-half health-sort">
+		<div class="one-third health-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/snail.jpg' />
@@ -75,7 +75,7 @@
 			</div>
 		</div>
 		<h1 class="title"> <span> Hair </span> </h1>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/tiger.jpg' />
@@ -85,7 +85,7 @@
                 </div> 
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -95,7 +95,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -105,7 +105,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -116,7 +116,7 @@
 			</div>
 		</div>
 		<h1 class="title"> <span> Skin </span> </h1>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -126,7 +126,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -136,7 +136,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -146,7 +146,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -157,7 +157,7 @@
 			</div>
 		</div>
 		<h1 class="title"> <span> Bridal </span> </h1>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -167,7 +167,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -177,7 +177,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
@@ -187,7 +187,7 @@
                 </div>
 			</div>
 		</div>
-		<div class="one-half herbal-sort">
+		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
                 <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
