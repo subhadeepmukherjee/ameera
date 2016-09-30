@@ -19,4 +19,7 @@
                 <li> <a href="location.php" title=""> <span> We are here </span> Location </a> </li>
             </ul>        	
         </div><!-- **Top-Menu - End** -->
-        
+    <!-- **Logo** -->
+    <div id="logo">
+        <a href="index.php" title=""> <img src="images/logo.png" alt="" title="" height="100px" width="100px" /> </a>
+    </div><!-- **Logo - End** -->

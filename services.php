@@ -4,10 +4,6 @@
 <div id="header">
 	<div class="container">
 		<?php require_once('parts/header.php'); ?>
-        <!-- **Logo** -->
-        <div id="logo">
-        	<a href="index.php" title=""> <img src="images/logo.png" alt="" title="" height="100px" width="100px" /> </a>
-        </div><!-- **Logo - End** -->
         <?php //require_once('parts/search.php') ?>
     </div>
 </div><!-- **Header - End** -->
@@ -52,7 +48,7 @@
                 
                  <ul class="flower-bullet green">
                     <li>Latest Haircut like Step/Layers/Mushroom/Volume/Blunt/Graduation/Feather etc.</li>
-                    <li> Hair color – Global / Highlight/ Hair Straightening/Smoothing </li>
+                    <li> Hair color ï¿½ Global / Highlight/ Hair Straightening/Smoothing </li>
                     <li> Hair Spa  Hair Treatment Hot oil Message / Hair wash with blow dry</li>
                    
                 </ul>
@@ -73,7 +69,7 @@
                     <li>Body Spa with Hot Shower </li>
                 </ul>
                     <p> Latest Haircut like Step/Layers/Mushroom/Volume/Blunt/Graduation/Feather etc.
-                            Hair color – Global / Highlight/ Hair Straightening/Smoothing
+                            Hair color ï¿½ Global / Highlight/ Hair Straightening/Smoothing
                         Hair Spa  Hair Treatment Hot oil Message / Hair wash with blow dry
 
                     </p>
@@ -93,9 +89,9 @@
                  <ul class="flower-bullet green">
                     <li>Anti Aging Treatment (ultrasonic)/ Super Glow Treatment(ultrasonic)</li>
                     <li>Anti Acne/pimple (Galvanic+Ozone)  </li>
-                    <li>Facials – (Gold/Diamond/Pearl/Fruit/Chocolate/Aloevera/Ultra Glow/ O3+/Sehnaz/VLCC/Lotus Professional/ Jovees)</li>
+                    <li>Facials ï¿½ (Gold/Diamond/Pearl/Fruit/Chocolate/Aloevera/Ultra Glow/ O3+/Sehnaz/VLCC/Lotus Professional/ Jovees)</li>
                     <li>Waxing with Tan Removal/Detaning for Face/Hand/Back/Neck</li>
-                    <li>Threading for eyebrow/Upper lip/Forehead/Chin/Full Face…</li>
+                    <li>Threading for eyebrow/Upper lip/Forehead/Chin/Full Faceï¿½</li>
                     <li>Pedicure- Foot Spa/Aroma/Normal</li>
                     <li>Manicure- Aroma Normal</li>
                 </ul>

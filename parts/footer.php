@@ -3,7 +3,7 @@
     	<div class="main-container">
         
         	<!-- **Recent Entries** -->
-        	<div class="column one-fourth">
+        	<!--<div class="column one-third">
             	<div class="widget widget_recent_entries">
                     <h2 class="widgettitle"> <span> Latest Posts </span> </h2>
                     <ul>
@@ -24,10 +24,10 @@
                         </li>
                     </ul>
                 </div>
-            </div><!-- **Recent Entries - End** -->
+            </div>--><!-- **Recent Entries - End** -->
             
             <!-- **Resources** -->
-            <div class="column one-fourth">
+            <div class="column one-third">
             	<div class="widget">
                     <h2 class="widgettitle"> <span> Resources </span> </h2>
                     <ul>
@@ -44,7 +44,7 @@
             </div><!-- **Resources - End** -->
             
             <!-- **Testimonials** -->
-            <div class="column one-fourth">
+            <div class="column one-third">
             	<div class="widget">
                     <h2 class="widgettitle"> <span> Testimonials </span> </h2>
                     
@@ -64,7 +64,7 @@
                             </li>
                             <li>
                                 <blockquote>
-                                   I’m  very Satisfied with body polishing by their expert male beautician
+                                   Iï¿½m  very Satisfied with body polishing by their expert male beautician
                                     <span> - Swapan Das  </span>
                                 </blockquote>
                             </li>
@@ -81,7 +81,7 @@
             </div><!-- **Testimonials - End** -->
             
             <!-- **Contact Us** -->
-            <div class="column one-fourth last">
+            <div class="column one-third last">
             	<div class="widget">
                     <h2 class="widgettitle"> <span> Contact Us </span> </h2>
                     <ul class="contact-details">
