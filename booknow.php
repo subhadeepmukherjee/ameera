@@ -23,8 +23,21 @@
             <div class="hr_invisible"> </div>
             
             <div class="column two-third">
-            	<div id="ajax_message"></div>
-            	<form id="booknow-form" action="php/booknow.php" method="get" class="booknow-form">
+            	<div style="margin:0;padding:0;width:100%;display:block;float:left;">
+				<style>
+				.correct{color:#4F8A10;background-color:#DFF2BF;}
+				.error{color: #D8000C;background-color: #FFBABA;}
+				</style>
+				<?php
+				$msg = $_GET['msg'];
+				//print($msg);
+				//die;
+				if(!empty($msg)){
+					echo $msg.'<br><br><br>';
+				}
+				?>
+				</div>
+            	<form id="booknow-form" action="php/booknow_submit.php" method="post" class="booknow-form">
                 	<p>
                         <label> Name <span class="required"> * </span> </label>
                         <input required="required" name="fname" type="text" />
@@ -40,11 +53,11 @@
                     </p>
                     <p>
                         <label> Mobile <span class="required"> * </span> </label>
-                        <input required="required" name="phone" type="text" />
+                        <input required="required" name="phone" type="text" maxlength="10" />
                     </p>
                     <p>
-                        <label> Email <span class="required"></span> </label>
-                        <input name="email" type="email" />
+                        <label> Email </label>
+                        <input name="email" type="text" />
                     </p>
                     <p>
                     	<label> Date of Service <span class="required"> * </span> </label>
@@ -130,21 +143,25 @@
                             <option value="body polish">Body polish</option>
                         </select>       
                     </p>
+					<p>
+                        <label> Comments </label>
+                        <textarea name="comments" cols="" rows=""></textarea>
+                    </p>
                     <p class="submit">
                     	<input name="booknow" type="submit" value="Book Now" />
                     </p>                    
                 </form>   
             </div>
-            <p style="margin:0;padding:0;width:100%;">&nbsp;</p> 
-            <!--<div class="column one-third last">    
+            <p style="margin:0;padding:0;width:100%;">&nbsp;</p>
+            <!--<div class="column one-third last">
             	<div class="booknow-page">
-                    <h1> Contact Details </h1>  
-                    <ul class="contact-details">   
-                        <li> <span class="address"> </span> <p> No: 58 A, East Madison St <br /> Baltimore, MD <br /> USA </p> </li>             
+                    <h1> Contact Details </h1>
+                    <ul class="contact-details">
+                        <li> <span class="address"> </span> <p> No: 58 A, East Madison St <br /> Baltimore, MD <br /> USA </p> </li>
                         <li> <span class="mail"> </span> <p> <a href="" title=""> yourname@somemail.com </a> </p> </li>
-                        <li> <span class="phone"> </span> <p> 2145 - 007 - 1566 </p> </li>                        
+                        <li> <span class="phone"> </span> <p> 2145 - 007 - 1566 </p> </li>
                     </ul>
-                
+
                     <h1> Working Hours </h1>
                     <div class="notice"> <span class="left"> Mon - Fri : </span> <span class="right"> 8am - 6pm </span> </div>
                     <div class="notice"> <span class="left"> Sat &amp; Sunday : </span> <span class="right"> 8am - 10pm </span> </div>
