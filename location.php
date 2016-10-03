@@ -4,6 +4,7 @@
 <div id="header">
 	<div class="container">
 		<?php require_once('parts/header.php'); ?>
+       
         <?php //require_once('parts/search.php') ?>
     </div>
 </div><!-- **Header - End** -->

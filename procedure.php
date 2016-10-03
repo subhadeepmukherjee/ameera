@@ -4,6 +4,7 @@
 <div id="header">
 	<div class="container">
 		<?php require_once('parts/header.php'); ?>
+      
         <?php //require_once('parts/search.php') ?>
     </div>
 </div><!-- **Header - End** -->
@@ -131,8 +132,8 @@
                         <li> 6.	Sun Damage Can Be Treated </li>
                         <li> 7.	Allergies Can Be Treated </li>
                     </ul>               
-                        <p>Gold helps in improving the blood circulation, hence it helps hydrate and maintain the skinï¿½s moisture level. The small particles of gold get absorbed into the skin imparting a rich glow. This makes the skin healthy, fresh and radiant.</p>
-                        <p>Gold not only gives a beautiful, glowing and youthful skin but is also beneficial in many ways. It slows down the collagen depletion, increases skinï¿½s elasticity, lightens the skinï¿½s complexion, stimulates the cells making the skin firm, improves blood circulation and prevents premature aging, wrinkles, tanning etc.</p>
+                        <p>Gold helps in improving the blood circulation, hence it helps hydrate and maintain the skin’s moisture level. The small particles of gold get absorbed into the skin imparting a rich glow. This makes the skin healthy, fresh and radiant.</p>
+                        <p>Gold not only gives a beautiful, glowing and youthful skin but is also beneficial in many ways. It slows down the collagen depletion, increases skin’s elasticity, lightens the skin’s complexion, stimulates the cells making the skin firm, improves blood circulation and prevents premature aging, wrinkles, tanning etc.</p>
                         <p>To sum up, gold is gold. You will have to try it to believe the amazing gold skin care benefits.</p>
           <!--      <blockquote> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </blockquote>                
           -->   

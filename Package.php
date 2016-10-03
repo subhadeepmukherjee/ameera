@@ -4,6 +4,8 @@
 <div id="header">
 	<div class="container">
 		<?php require_once('parts/header.php'); ?>
+        <!-- **Logo** -->
+      
         <?php //require_once('parts/search.php') ?>
     </div>
 </div><!-- **Header - End** -->

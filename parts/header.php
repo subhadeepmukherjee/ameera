@@ -21,5 +21,5 @@
         </div><!-- **Top-Menu - End** -->
     <!-- **Logo** -->
     <div id="logo">
-        <a href="index.php" title=""> <img src="images/logo.png" alt="" title="" height="100px" width="100px" /> </a>
+        <a href="index.php" title=""> <img src="images/logo.png" alt="" title="" height="100px" width="290px" /> </a>
     </div><!-- **Logo - End** -->

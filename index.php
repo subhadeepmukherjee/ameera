@@ -4,6 +4,7 @@
 <div id="header">
 	<div class="container">
 		<?php require_once('parts/header.php'); ?>
+        
         <?php //require_once('parts/search.php') ?>
     </div>
 </div><!-- **Header - End** -->
@@ -13,11 +14,12 @@
     
     	<div class="slider-wrapper theme-default">    
             <div id="slider" class="nivoSlider">
-                <img src="images/1.jpg" alt="" title="#htmlcaption1" />
-                <img src="images/2.jpg" alt="" title="" />
+                <img src="images/general/s1.jpg" alt="" title="#htmlcaption1" />
+                <img src="images/general/s2.jpg" alt="" title="" />
                 <img src="images/3.jpg" alt="" title="#htmlcaption3" />
+                <img src="images/2.jpg" alt="" title="" />  
             </div>
-            <div id="htmlcaption1" class="nivo-html-caption">
+<!--            <div id="htmlcaption1" class="nivo-html-caption">
                  <h2> Experience the real essence of spa </h2>
                 <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est sed mauris gravida mollis. </p>
                 <a href="services.php" title=""> <span> Read More </span> </a>
@@ -26,7 +28,7 @@
                  <h2> Hot stone massage or reflexology </h2>
                 <p> Sed augue lectus, sollicitudin sit amet hendrerit ut, convallis at libero. Duis quam arcu, tempus sed laoreet in, hendrerit mollis neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas sit amet justo massa. Praesent commodo interdum lectus, a porta magna auctor nec. </p>
                 <a href="services.php" title=""> <span> Read More </span> </a>
-            </div>    
+            </div>    -->
                     
         </div>
         
@@ -77,8 +79,8 @@
             <div class="column one-half">
                 <div class="box-content">
                     <a href="procedure.php" title=""> <img src="images/blunt220.jpg" alt="" title="" class="alignleft" /> </a>
-                    <h2> Hair Styling - BLUNT </h2>
-                    <p> Nulla ullamcorper faucibus tellus sed malesuada. In convallis hendrerit velit id vulputate. In hac habitasse platea dictumst. Donec eget consequat urna. Pellentesque ac nibh risus. Duis scelerisque, metus ac adipiscing. </p>
+                    <h2> Hair Styling - Layers </h2>
+                    <p> Layered hair is a hairstyle that gives the illusion of length and volume using long hair for the illusion of length and short hair for volume, as an easy to style and manage.  </p>
                     <a href="procedure.php" title="Read More" class="tooltip-top readmore"> </a> 
                 </div>
             </div>
@@ -87,7 +89,7 @@
                 <div class="box-content">
                     <a href="procedure.php" title=""> <img src="images/gold220.jpg" alt="" title="" class="alignleft" /> </a>
                     <h2> Gold Facial </h2>
-                    <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In in massa urna, vitae vestibulum orci. Maecenas quis est sed mauris gravida mollis. Suspendisse potenti. Pellentesque nisl nec elit. </p>
+                    <p> Gold facials are undoubtedly the best beauty treatments that women in India would like to go for when they are heading for a party, wedding or when they are the bride. It's the benefits of gold particles that makes this facial a must have to induce the natural glow and fairness to the skin.  </p>
                     <a href="procedure.php" title="Read More" class="tooltip-top readmore"> </a> 
                 </div>
             </div>

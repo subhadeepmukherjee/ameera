@@ -4,6 +4,7 @@
 <div id="header">
 	<div class="container">
 		<?php require_once('parts/header.php'); ?>
+       
         <?php //require_once('parts/search.php') ?>
     </div>
 </div><!-- **Header - End** -->
@@ -11,7 +12,8 @@
 <div id="main" style="padding:0;margin:0;">
 	<!-- **Main Container** -->
 	<div class="main-container">
-    
+            <img src="images/general.png"
+                 <br><br><br><br><br><br><br><br>
     	<!-- **Content Full Width** -->
     	<div class="content content-full-width">
 		<p style="margin:0;padding:0;width:100%;">&nbsp;</p>
@@ -29,170 +31,90 @@
 		.one-third{float:left;}
         </style>
 		<div id='content'>
-		<h1 class="title"> <span> Body </span> </h1>
+		<h1 class="title"> <span> Inside View </span> </h1>
 		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/cat.jpg' />
+                <img src='images/general/DSC_0985.jpg' />
 				</div>
-				<div class="gallery-title">
+				<!--<div class="gallery-title">
                     <h5> <a href="#" title=""> Misc Herbs </a> </h5>
-                </div>
+                </div>-->
 			</div>
 		</div>
 		<div class="one-third cosmetics-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/bird.jpg' />
+                    <img src='images/general/DSC_0983.jpg' />
 				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Color in Disguise </a> </h5>
-                </div>
+				<!--<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>-->
 			</div>
 		</div>
 		<div class="one-third treatment-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/horse.jpg' />
+                    <img src='images/general/DSC_0972.jpg' />
 			    </div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Spa Bars </a> </h5>
-                </div> 
+				<!--<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>-->
 			</div>
 		</div>
+                
 		<div class="one-third health-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/snail.jpg' />
+                    <img src='images/general/DSC_0023.jpg' />
 				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Honey Dew </a> </h5>
-                </div> 
-			</div>
-		</div>
-		<h1 class="title"> <span> Hair </span> </h1>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/tiger.jpg' />
-				</div>
-				<div class="gallery-title">
+				<!--<div class="gallery-title">
                     <h5> <a href="#" title=""> Misc Herbs </a> </h5>
-                </div> 
+                </div>-->
+			</div>
+		</div>
+		<h1 class="title"> <span> Product </span> </h1>
+		<div class="one-third herbal-sort">
+            <div class="gallery">
+                <div class="gallery-image">
+                    <img src='images/general/DSC_0011.jpg' />
+				</div>
+				<!--<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>-->
 			</div>
 		</div>
 		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
+                    <img src='images/general/DSC_0018.jpg' />
 				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
+				<!--<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>-->
 			</div>
 		</div>
 		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
+                    <img src='images/general/DSC_0037.jpg' />
 				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
+				<!--<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>-->
 			</div>
 		</div>
 		<div class="one-third herbal-sort">
             <div class="gallery">
                 <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
+                    <img src='images/general/DSC_0043.jpg' />
 				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
+				<!--<div class="gallery-title">
+                    <h5> <a href="#" title=""> Misc Herbs </a> </h5>
+                </div>-->
 			</div>
 		</div>
-		<h1 class="title"> <span> Skin </span> </h1>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<h1 class="title"> <span> Bridal </span> </h1>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
-		<div class="one-third herbal-sort">
-            <div class="gallery">
-                <div class="gallery-image">
-                <img src='http://muratayfer.com/static/images/paintings/motosiklet.jpg' />
-				</div>
-				<div class="gallery-title">
-                    <h5> <a href="#" title=""> Wollen Cloth </a> </h5>
-                </div>
-			</div>
-		</div>
+		
      </div><!-- **content - End ** -->
 	 <p style="margin:0;padding:0;width:100%;">&nbsp;</p><br><br>
         </div> <!-- **Content Full Width - End** -->   	
